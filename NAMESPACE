@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(boot, simpleboot)
+S3method(print, boot.one)
+S3method(print, boot.paired)
+S3method(print, boot.regcor)
+S3method(print, boot.two)
