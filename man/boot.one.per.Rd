@@ -10,8 +10,9 @@ Percentile Bootstrap One-Sample Test and CI
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 Obtains a confidence interval and (optionally) performs a hypothesis test
-for one population mean, proportion, standard deviation, or user-defined
-function such as a trimmed mean, using the percentile bootstrap method.
+for one population mean, median, proportion, standard deviation, or
+user-defined function such as a trimmed mean, using the percentile bootstrap
+method.
 }
 
 \usage{
@@ -51,7 +52,6 @@ the number of bootstrap replications; default is 9999.}
 
 \details{
 %%  ~~ If necessary, more details than the description above ~~
-A test for the median or other percentiles does not work well and is not recommended.
 For a proportion, the data must consist of 1s and 0s, with 1 corresponding to a
 success.
 }

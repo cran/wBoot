@@ -11,8 +11,8 @@ Percentile Bootstrap Independent Two-Samples Test and CI
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 Obtains an independent-samples confidence interval and (optionally) performs
 an independent-samples hypothesis test for the difference between two
-population means, proportions, or some user-defined function, using the
-percentile bootstrap method.
+population means, medians, proportions, or some user-defined function, using
+the percentile bootstrap method.
 }
 
 \usage{
@@ -66,7 +66,6 @@ the number of bootstrap replications; default is 9999.}
 
 \details{
 %%  ~~ If necessary, more details than the description above ~~
-A test for the median or other percentiles does not work well and is not recommended.
 For a proportion, the data must consist of 1s and 0s, with 1 corresponding to a
 success.
 }

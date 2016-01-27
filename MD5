@@ -1,4 +1,4 @@
-4afc475919529f691dda55892d63bd96 *DESCRIPTION
+e833a9f321522e186b1e244881b847d7 *DESCRIPTION
 526aaf127982ead438c49050332a1756 *NAMESPACE
 ac9e2be73d278cec032cd900b9ff9b5a *R/boot.cond.mean.bca.R
 b1c1394f3b8d3466c13038efa27d1fa2 *R/boot.cond.mean.per.R
@@ -27,16 +27,16 @@ c3e5f7f676739cdbe4b8a6a463f74483 *man/boot.cond.mean.bca.Rd
 b3d50c20f45034d638ded020f72e1569 *man/boot.cond.mean.per.Rd
 a43e0967c588d5bfb119e51173ae7d48 *man/boot.cor.bca.Rd
 022f3cb1820208c59d0e9eb7b5d676a1 *man/boot.cor.per.Rd
-4133a6d60f14fdfb5eb49b38c96a5ed1 *man/boot.one.bca.Rd
-c9a4e2dfea24b6db178361489fd1b1a1 *man/boot.one.per.Rd
+d719029d727e0a53552c4b38a9ee862c *man/boot.one.bca.Rd
+8f0ffa426d9fd2cfd2e12ef14ce99e50 *man/boot.one.per.Rd
 a85101d65d6881d671e2cf293c2afa2f *man/boot.paired.bca.Rd
 f9ef9129a3385ae9761803e71fb4add1 *man/boot.paired.per.Rd
 02f4159482e3b161a7e831792713634b *man/boot.ratio.sd.bca.Rd
 dc303befbc7cbc547084bff4adff2c81 *man/boot.ratio.sd.per.Rd
 c96c5c7ed2604fe7bc69b14eea1c7f6f *man/boot.slope.bca.Rd
 f7bb7211d3d1479a4d096fcb474ced87 *man/boot.slope.per.Rd
-943631aa65a9689deb9596c6ae75a141 *man/boot.two.bca.Rd
-112acc8f7596fffe8ad4f9b1ba885dee *man/boot.two.per.Rd
+5c4d2d20c5f1427a51a8f5d0787a4601 *man/boot.two.bca.Rd
+367c36e25fc39f1eac8998b3c492e168 *man/boot.two.per.Rd
 17a916e2229560a92b69ef7ef216baf9 *man/elmendorf.Rd
 f0d9cd014ba13dd966841c5adea849f5 *man/fonts.Rd
 ff6e1b31907295ca18d1fca064cf0119 *man/homes.Rd
@@ -46,4 +46,4 @@ ff6e1b31907295ca18d1fca064cf0119 *man/homes.Rd
 e00850deb7283607d637525b2a2330ba *man/print.boot.regcor.Rd
 783fbe7061e4bf5b8c1ed83f953457c2 *man/print.boot.two.Rd
 6c40188426f3909f7d6f132faf29c829 *man/tees.Rd
-a959007aa89eebb1f05c91f0dccdd703 *man/wBoot-package.Rd
+1ded7ec2a74bfa25755c21eb7dc1d766 *man/wBoot-package.Rd
